@@ -61,8 +61,12 @@ You can stop looking, there is none. Activate the plugin to clean up your WordPr
 
 = You have not any rating or review; why should I install this plugin? =
 
-Yes, you are correct and many people say that it is important for a plugin to have a good rating. Some plugin developers rate their own plugins to get that first 5 star rating going, but I think that is [not playing fair](https://proplugindirectory.com/authors-rating-own-plugins/). Fortunately there are already quite a few people that have downloaded the plugin, installed it, activated it and keep it activated, as you can see from the Active Installs in the sidebar. There must be something good that the plugin does then, right?
-So if you decide to install it and you're happy about the plugin, then please help the next person (and me) by [leaving a 5-star review](https://wordpress.org/support/view/plugin-reviews/so-clean-up-wp-seo?rate=5#postform). Thank you very much!
+Yes, you are correct and many people say that it is important for a plugin to have a good rating. Some plugin developers rate their own plugins to get that first 5 star rating going, but I think that is not playing fair.
+Fortunately there are already quite a few people that have downloaded the plugin, installed it, activated it and keep it activated, as you can see from the Active Installs in the sidebar. There must be something good that the plugin does then, right?
+
+So if you decide to install it and you're happy about the plugin, then please help the next person (and me) by [leaving a 5-star review](https://wordpress.org/support/view/plugin-reviews/so-clean-up-wp-seo?rate=5#postform). 
+
+Thank you very much!
 
 = I have an issue with this plugin, where can I get support? =
 
